@@ -1,0 +1,21 @@
+Admin@VietThuanTran MINGW32 /e/Firstproject (master)
+$ cd /e/Cmdline-vietthuan/
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ mkdir ex7
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ cd ex7
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ mkdir tools
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/ex7 (master)
+$ ls
+tools/
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/ex7 (master)
+$ rm -rf tools
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ ls
